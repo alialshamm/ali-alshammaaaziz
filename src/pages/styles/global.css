@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+    .registration-form {
+        width: 90%;
+        padding: 1rem;
+    }
+
+    input {
+        width: 100%;
+        margin: 0.5rem 0;
+    }
+}
